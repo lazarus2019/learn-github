@@ -1,15 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
 body{
     background-color: white;
 }
 
 textarea{
     resize: none;
+    color: red;
+}
+
+.newTag{
+	/* This is my new tag */
 }
 
 *{
-    font-size: 18px;
     font-family: sans-serif;
+    /* Va o day */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* Toi dang comment o day */
+}
+
+.hello{
+	color: black;
+	background: white;
 }
