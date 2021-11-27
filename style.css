@@ -5,3 +5,9 @@ body{
 textarea{
     resize: none;
 }
+
+*{
+    margin: 0rem;
+    font-size: 18px;
+    font-family: sans-serif;
+}
